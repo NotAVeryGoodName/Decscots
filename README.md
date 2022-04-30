@@ -4,13 +4,6 @@
   <img src="https://discord.c99.nl/widget/theme-1/643962368715653190.png" />
 </p>
 
-<p align="center">
-<bInterested in java</b>
-</p>
-  
-  
-<p align="center">
-<bCurrently trying to make a Minecraft hacked client and a hypixel skyblock QOL (cheater) mod</b>
-</p>
-
-</p>
+## Fun fact!11!/11!
+- Im interested in java
+- Im trying to make a minecraft hacked client and will make a hypixel skyblock cheater mod 
