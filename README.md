@@ -1,5 +1,8 @@
- - Interested in java
- - Currently trying to make a Minecraft hacked client and a hypixel skyblock QOL (cheater) mod
+## Discord
+https://discord.c99.nl/widget/theme-1/643962368715653190.png
+## Things
+- Interested in java
+- Currently trying to make a Minecraft hacked client and a hypixel skyblock QOL (cheater) mod
 
 <!--
 **Decscots/Decscots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
