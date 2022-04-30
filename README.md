@@ -1,4 +1,3 @@
-### hello
  - Interested in java
  - Currently trying to make a Minecraft hacked client and a hypixel skyblock QOL (cheater) mod
 
